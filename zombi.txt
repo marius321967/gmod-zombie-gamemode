@@ -1,0 +1,7 @@
+"zombi"
+{
+	"base"			"base"
+	"title"			"Zombi"
+	"maps"			"^zmb_"
+	"menusystem"	"1"
+}

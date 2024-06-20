@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"spl/zmb_ak74"
+	"$ignorez"			1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+	"$nolod" 			1
+	"$additive" 		1
+}

@@ -1,0 +1,10 @@
+-- Weapons
+w = {
+{['name'] = 'Glock-18', ['adminonly'] = true, ['price'] = 100, ['preferredslot'] = 2, ['ammotype'] = 'Pistol', ['power'] = 20, ['accuracy'] = 80, ['speed'] = 50, ['clipsize'] = 17, ['maxammo'] = 194, ['bulletprice'] = 0.2, ['entity'] = 'zmb_glock', ['model'] = 'models/weapons/w_pist_deagle.mdl'}, 
+{['name'] = 'IMI Desert Eagle', ['adminonly'] = true, ['price'] = 250, ['preferredslot'] = 2, ['ammotype'] = '357', ['power'] = 80, ['accuracy'] = 80, ['speed'] = 50, ['clipsize'] = 7, ['maxammo'] = 34, ['bulletprice'] = 0.4, ['entity'] = 'zmb_deagle', ['model'] = 'models/weapons/w_pist_deagle.mdl'}, 
+{['name'] = 'FN P90', ['adminonly'] = true, ['price'] = 300, ['preferredslot'] = 3, ['ammotype'] = 'SMG1', ['power'] = 16, ['accuracy'] = 50, ['speed'] = 150, ['clipsize'] = 50, ['maxammo'] = 400, ['bulletprice'] = 0.2, ['entity'] = 'zmb_p90', ['model'] = 'models/weapons/w_smg_p90.mdl'}, 
+{['name'] = 'FAMAS F1', ['adminonly'] = true, ['price'] = 350, ['preferredslot'] = 4 ,['ammotype'] = 'AR2', ['power'] = 40, ['accuracy'] = 180, ['speed'] = 90, ['clipsize'] = 25, ['maxammo'] = 200, ['bulletprice'] = 0.4, ['entity'] = 'zmb_famas', ['model'] = 'models/weapons/w_rif_famas.mdl'},
+{['name'] = 'Benelli M3', ['adminonly'] = true, ['price'] = 500, ['preferredslot'] = 3, ['ammotype'] = 'Buckshot', ['power'] = 100, ['accuracy'] = 20, ['speed'] = 50, ['clipsize'] = 8, ['maxammo'] = 64, ['bulletprice'] = 0.8, ['entity'] = 'zmb_m3', ['model'] = 'models/weapons/w_shot_m3super90.mdl'},
+{['name'] = 'Arctic Warfare Police', ['adminonly'] = true, ['price'] = 800, ['preferredslot'] = 4, ['ammotype'] = 'XBowBolt', ['power'] = 100, ['accuracy'] = 200, ['speed'] = 25, ['clipsize'] = 10, ['maxammo'] = 40, ['bulletprice'] = 4, ['entity'] = 'zmb_awp', ['model'] = 'models/weapons/w_snip_awp.mdl'},
+{['name'] = 'Kalashnikov Automatic 1974', ['adminonly'] = true, ['price'] = 650, ['preferredslot'] = 4, ['ammotype'] = 'AirboatGun', ['power'] = 40, ['accuracy'] = 100, ['speed'] = 40, ['clipsize'] = 30, ['maxammo'] = 200, ['bulletprice'] = 0.4, ['entity'] = 'zmb_ak74', ['model'] = 'models/weapons/w_rif_ak47.mdl'}
+}
